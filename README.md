@@ -18,9 +18,13 @@
 <hr/>
     
 <h3>Pollution</h3>
+<div class="bullet"
     <ul>
         <li><a href="http://www.nationalgeographic.com/environment/global-warming/pollution/">National Geographic official pollution page</a></li>
+    <ul>
         <li><a href="https://www.theguardian.com/sustainable-business/2016/jul/05/how-air-pollution-affects-your-health-infographic">Infographic from The Guardian on the effects of pollution on your body</a></li>
+        <li><a href="http://www.air-quality.org.uk/17.php">Effects of pollution on other animals, from air-quality.org</a></li>
+    </ul>
         <li><a href="https://www.des.nh.gov/organization/divisions/air/tsb/ams/aqmdp/share.htm">Ways to prevent air pollution, from New Hampshire Dept. of Environmental Services</a></li>
     </ul>
 <h3>Fracking</h3>
@@ -43,6 +47,7 @@
     <hr/>
 <h1>Download this flier for free motivation!</h1>
     <p><a href="10ThingsToDoToHelp.fw.pdf"><img src="images/TreeDF.jpg" alt="Download Here" style="width:300;height:411;"></a></p>
+</div>
 </div>
 </body>
 </html>
